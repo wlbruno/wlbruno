@@ -4,13 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wlbruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbruno&layout=compact&langs_count=10&theme=dark"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Deise-PHP" height="30" width="40" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
-  <img align="center" alt="Deise-Laravel" height="30" width="40"   src="https://img.icons8.com/fluent/48/000000/laravel.png"/>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-</div>
   
 <br>
   <div> 
